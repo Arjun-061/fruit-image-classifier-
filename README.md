@@ -18,3 +18,7 @@ This project uses a Convolutional Neural Network (CNN) to classify fruit images 
 pip install -r requirements.txt
 python src/train.py
 python src/predict.py
+```
+## 📈 Output
+```bash
+Predicts fruit type from image
