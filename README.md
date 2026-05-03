@@ -20,5 +20,5 @@ python src/train.py
 python src/predict.py
 ```
 ## 📈 Output
-```bash
+
 Predicts fruit type from image
